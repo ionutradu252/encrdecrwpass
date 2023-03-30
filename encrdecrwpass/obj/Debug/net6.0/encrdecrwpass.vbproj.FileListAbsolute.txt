@@ -1,0 +1,15 @@
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\bin\Debug\net6.0\encrdecrwpass.exe
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\bin\Debug\net6.0\encrdecrwpass.deps.json
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\bin\Debug\net6.0\encrdecrwpass.runtimeconfig.json
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\bin\Debug\net6.0\encrdecrwpass.dll
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\bin\Debug\net6.0\encrdecrwpass.pdb
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.vbproj.AssemblyReference.cache
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.AssemblyInfoInputs.cache
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.AssemblyInfo.vb
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.vbproj.CoreCompileInputs.cache
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.dll
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\refint\encrdecrwpass.dll
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.pdb
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\encrdecrwpass.genruntimeconfig.cache
+C:\Users\ionut\source\repos\encrdecrwpass\encrdecrwpass\obj\Debug\net6.0\ref\encrdecrwpass.dll
